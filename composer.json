@@ -1,0 +1,27 @@
+{
+    "name": "ashokadhikari92/mydashboard",
+    "description": "An example package.",
+    "type": "project",
+    "license": "AKD",
+    "authors": [
+        {
+            "name": "Ashok Adhikari",
+            "email": "ashok.adhikari92@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "MyPackage\\Dashboard\\":"src/",
+            "MyPackage\\Dashboard\\Controllers\\":"src/controllers/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {},
+    "extra":{
+        "laravel":{
+            "providers":[
+                "MyPackage\\Dashboard\\DashboardServiceProvider"
+            ]
+        }
+    }
+}
