@@ -3,6 +3,11 @@
     "description": "An example package.",
     "type": "project",
     "license": "AKD",
+    "homepage": "https://github.com/ashokadhikari92/mydashboard",
+    "support": {
+        "issues": "https://github.com/ashokadhikari92/mydashboard/issues",
+        "source": "https://github.com/ashokadhikari92/mydashboard"
+    },
     "authors": [
         {
             "name": "Ashok Adhikari",
