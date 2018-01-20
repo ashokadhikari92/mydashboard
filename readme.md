@@ -1,4 +1,4 @@
-#### Laravel package developed using vue paper dashboard.
+## MyDashboard
 
 To use this package follow following steps:
 
@@ -6,7 +6,7 @@ To use this package follow following steps:
 
 
 
-    "repositories": [
+   ` "repositories": [
         {
           "type": "package",
           "package": {
@@ -19,7 +19,7 @@ To use this package follow following steps:
             }
           }
         }
-    ]
+    ]`
     
  
  
